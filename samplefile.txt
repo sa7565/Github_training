@@ -2,3 +2,4 @@ This is the test fi
 C
 i am editing this fill
 This is to test git revert1
+this is to test reset
